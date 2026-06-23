@@ -1,4 +1,9 @@
 # Projeto.2
+
+Gabriel Durães Betinarde - 15676732
+Eduardo Marani Barbosa Galia - 15574332
+
+
 Aferidor de Temperatura e Tempo para Forno Industrial:
 Este projeto consiste no desenvolvimento de um sistema embarcado baseado no PIC18F4550 (utilizando a infraestrutura do Kit EasyPIC v7 e simulação no SimulIDE) voltado para o monitoramento térmico e controle de tempo de operação em um forno industrial, integrando periféricos analógicos e digitais operando sob uma arquitetura de firmware em linguagem C.
 
